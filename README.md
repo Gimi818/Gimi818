@@ -25,9 +25,9 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://d33wubrfki0l68.cloudfront.net/6b06015a22f71ab9571943df763c6e827ae18f89/a3195/logo.png" alt="java" width="90" height="50"/>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://javadoc.io/static/org.mockito/mockito-core/1.9.5/org/mockito/logo.jpg" alt="java" width="90" height="50"/></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gimi818" /></p>
+<p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="gimi818" /></p>
-
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="gimi818" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gimi818" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gimi818&theme=tokyonight" alt="gimi818" /></p>
 
