@@ -27,7 +27,7 @@
 
 <p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="gimi818" /></p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gimi818" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gimi818&show_icons=true&locale=en&theme=tokyonight" alt="gimi818" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gimi818&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gimi818" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gimi818&theme=tokyonight" alt="gimi818" /></p>
 
