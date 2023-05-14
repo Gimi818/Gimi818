@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Car Insurance**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Jenkins**
 
 - 💬 Ask me about **Java & Spring Boot**
 
