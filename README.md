@@ -1,12 +1,12 @@
 ![MasterHead](https://marketplace.canva.com/EAENvk2CS4M/1/0/1600w/canva-simple-technology-linkedin-banner-iHvm-YmdTcQ.jpg)
 <h1 align="center">Hi 👋, I'm Wojciech Gmiterek</h1>
-<h3 align="center">A beginner Java developer</h3>
+<h3 align="center">Junior Java developer</h3>
 <img align="right" alt="Coding" width="450"src="https://www.lambdatest.com/resources/images/news24.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gimi818&label=Profile%20views&color=0e75b6&style=flat" alt="gimi818" /> </p>
 
-- 🔭 I’m currently working on **Car Insurance**
+- 🔭 I’m currently working on **Insurance Company**
 
 - 🌱 I’m currently learning **Jenkins**
 
