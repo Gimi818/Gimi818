@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gimi818&label=Profile%20views&color=0e75b6&style=flat" alt="gimi818" /> </p>
 
-- 🔭 I’m currently working on **Insurance Company**
+- 🔭 I’m currently working on **Cinema**
 
 - 🌱 I’m currently learning **Jenkins**
 
@@ -28,6 +28,6 @@
 <p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gimi818&show_icons=true&locale=en&theme=tokyonight" alt="gimi818" /></p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gimi818&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gimi818" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gimi818&theme=tokyonight" alt="gimi818" /></p>
+ 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gimi818&theme=tokyonight" alt="gimi818" /></p>
 
