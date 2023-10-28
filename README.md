@@ -28,7 +28,7 @@
 
 
 <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=gimi818&show_icons=true&locale=en&theme=tokyonight" alt="gimi818" style="width: 450px; height: 350px; float: left; margin-right: 20px;" /><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gimi818&theme=tokyonight" alt="gimi818" style="width: 450px; height: 350px; float: left;" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=gimi818&show_icons=true&locale=en&theme=tokyonight" alt="gimi818" style="width: 300px; height: 350px; float: left; margin-right: 20px;" /><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gimi818&theme=tokyonight" alt="gimi818" style="width: 300px; height: 350px; float: left;" />
     <div style="clear: both;"></div>
 
    
