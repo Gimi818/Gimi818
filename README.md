@@ -26,5 +26,7 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://javadoc.io/static/org.mockito/mockito-core/1.9.5/org/mockito/logo.jpg" alt="java" width="90" height="50"/></a> </p>
 <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=gimi818&show_icons=true&locale=en&theme=tokyonight" alt="gimi818" style="width: 400px; height: 350px; float: left; margin-right: 20px;" />
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gimi818&theme=tokyonight" alt="gimi818" style="width: 400px; height: 350px; float: right; margin-right: 20px;" />
+    <div style="clear: both;"></div>
 
 </div>
