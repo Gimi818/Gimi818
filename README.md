@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Kafka **
 
-- 💬 Ask me about **Java  & Spring Boot**
+- 💬 Ask me about **Java & Spring Boot**
 
 - 📫 How to reach me **gmit.wojciech@gmail.com**
 
