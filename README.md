@@ -1,6 +1,6 @@
 ![MasterHead](https://marketplace.canva.com/EAENvk2CS4M/1/0/1600w/canva-simple-technology-linkedin-banner-iHvm-YmdTcQ.jpg)
 <h1 align="center">Hi 👋 , I'm Wojciech Gmiterek</h1>
-<h3 align="center">Junior Java developer</h3>
+<h3 align="center">Junior Java Developer</h3>
 <img align="right" alt="Coding" width="450"src="https://www.lambdatest.com/resources/images/news24.gif">
 
 
