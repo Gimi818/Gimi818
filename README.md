@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on  **CinemaMicroService**
 
-- 🌱 I’m currently learning  **Kafka**
+- 🌱 I’m currently learning   **Kafka**
 
 - 💬 Ask me about **Java & Spring Boot**
 
